@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @BishnuprasadTripathy
 - 👀 I’m interested in Coding..
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on Programming.
 - 📫 How to reach me Gmail.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Comedian.
+- 😄 Pronouns: He.
+- ⚡ Fun fact: Comedian,Sanatan Devotee.
 
 <!---
 BishnuprasadTripathy/BishnuprasadTripathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
